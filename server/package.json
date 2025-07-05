@@ -10,6 +10,8 @@
     "check": "tsc",
     "db:push": "drizzle-kit push"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vite": "^5.4.19"
+  },
   "devDependencies": {}
 }
